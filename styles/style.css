@@ -26,3 +26,13 @@ body {
     background-size: contain;
 }
 
+.container__botao {
+    background-color: var(--botao-azul);
+    color: var(--branco-principal);
+    border-radius: 8px;
+    width: 512px;
+    font-size: 16px;
+    padding: 1em;
+    text-decoration: none;
+    display: block;
+}
