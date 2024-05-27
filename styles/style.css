@@ -41,10 +41,12 @@ body {
     background-image: url("../img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
+    align-items: center;
+    text-align: center;
 }
 
 .container__imagem {
-    margin: 2em 0 2em 0;
+    margin: 1em 0 2em 0;
 }
 
 .container__botao {
