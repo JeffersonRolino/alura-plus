@@ -33,10 +33,18 @@ body {
     grid-template-columns: 50% 50%;
 }
 
+.container__caixa {
+    margin: 0 6em;
+}
+
 .principal {
     background-image: url("../img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
+}
+
+.container__imagem {
+    margin: 2em 0 2em 0;
 }
 
 .container__botao {
@@ -47,6 +55,7 @@ body {
     padding: 1em;
     text-decoration: none;
     display: block;
+    margin-bottom: 16px;
 }
 
 .botao_secundario {
